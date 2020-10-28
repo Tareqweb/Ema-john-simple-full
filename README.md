@@ -15,6 +15,8 @@ After review order and client go to process check out
 Clients go to the authentication process google or facebook and it checks new users or already signs in .
 After fill up the form client pay the payment option if the  client fill up all order information it;s go to our server
 
+Linkedin :https://www.linkedin.com/in/md-tareq-khan-78aa171b1/
+
 
 Live Link : https://dreamy-mccarthy-93a4e5.netlify.app
 Git Repo:  https://github.com/Tareqweb/Ema-john-simple-full
